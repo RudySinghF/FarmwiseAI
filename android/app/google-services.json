@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136298601240",
+    "project_id": "farmai-b6357",
+    "storage_bucket": "farmai-b6357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136298601240:android:9085e58c594a11bc3d5c6d",
+        "android_client_info": {
+          "package_name": "com.example.farmwise_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNOgW1WGc1KOZS2uDwciPaTdggcKp10XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
